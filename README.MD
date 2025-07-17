@@ -27,9 +27,6 @@ I’m continuously building, learning, and collaborating on impactful fintech an
   <a href="https://twitter.com/yourTwitterHandle" target="_blank">
     <img src="https://img.shields.io/twitter/follow/yourTwitterHandle?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://medium.com/@yourMedium" target="_blank">
-    <img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/>
-  </a>
 </p>
 
 📅 [Book a quick chat](https://calendar.app.google/BDMXxwvE2bsW8tdS7) — Let’s connect!  
