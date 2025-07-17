@@ -1,23 +1,28 @@
-<img align="left" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
+<!-- Top banner -->
+<img align="center" src="https://raw.githubusercontent.com/brianmwirigi/brianmwirigi/main/assets/header-dev.gif" width="100%" alt="coding banner"/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="80"/>
 </div>
 
-# 👋 Hey, I'm Brian Mwirigi  
-🚀 Solutions Architect | ☁️ AWS Certified | 💻 Backend Engineer | 📲 Fintech & Mobile Integrations  
+# 👋 Hi, I'm Brian Mwirigi  
 
-<img align="center" alt="Dev" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
-
-Welcome to my GitHub!  
-Take your time, explore my work, and see what I've been building. I appreciate your time and curiosity 🙏
+🚀 **Solutions Architect** at Loop DFS | ☁️ **AWS Cloud Practitioner Certified**  
+💻 Former **Software Engineer** at Tangazoletu Ltd | 🔐 Mobile & USSD Integrations  
+🎯 Passionate about backend systems, DevOps, and cloud-native infrastructure.
 
 ---
 
-### 🌐 Connect with me  
+### 🙌 Welcome!
+Thanks for visiting my GitHub profile. Take a look around — explore my work, projects, and tech stack.  
+I’m continuously building, learning, and collaborating on impactful fintech and backend systems.
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/brianmwirigi/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourTwitterHandle" target="_blank">
     <img src="https://img.shields.io/twitter/follow/yourTwitterHandle?logo=twitter&style=for-the-badge" />
@@ -27,9 +32,8 @@ Take your time, explore my work, and see what I've been building. I appreciate y
   </a>
 </p>
 
-📅 [Book a quick chat](https://calendar.app.google/BDMXxwvE2bsW8tdS7) — Let’s connect!
-
-🌍 **Check out my portfolio:** [rigiih.vercel.app](https://rigiih.vercel.app/)
+📅 [Book a quick chat](https://calendar.app.google/BDMXxwvE2bsW8tdS7) — Let’s connect!  
+🌍 **Portfolio:** [rigiih.vercel.app](https://rigiih.vercel.app/)
 
 ---
 
@@ -37,7 +41,7 @@ Take your time, explore my work, and see what I've been building. I appreciate y
 
 <table><tr><td valign="top" width="33%">
 
-#### 💡 Frontend
+#### 💡 Frontend  
 <div align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
 <img src="https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=blue" />
@@ -47,7 +51,7 @@ Take your time, explore my work, and see what I've been building. I appreciate y
 
 </td><td valign="top" width="33%">
 
-#### ⚙️ Backend
+#### ⚙️ Backend  
 <div align="center">  
 <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" />
@@ -58,7 +62,7 @@ Take your time, explore my work, and see what I've been building. I appreciate y
 
 </td><td valign="top" width="33%">
 
-#### 🧰 DevOps & Tools
+#### 🧰 DevOps & Tools  
 <div align="center">
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" />
 <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
@@ -71,11 +75,9 @@ Take your time, explore my work, and see what I've been building. I appreciate y
 
 ---
 
-
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=brianmwirigi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brianmwirigi&label=Profile%20views&color=0e75b6&style=flat)
-
