@@ -41,34 +41,36 @@ I’m continuously building, learning, and collaborating on impactful fintech an
 
 <table><tr><td valign="top" width="33%">
 
-#### 💡 Frontend  
+#### 💻 Languages & Frameworks
 <div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
-<img src="https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=blue" />
-<img src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white" />
-<a href="https://www.android.com/"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40"/></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-#### ⚙️ Backend  
-<div align="center">  
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" />
-<a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
 </div>
 
 </td><td valign="top" width="33%">
 
-#### 🧰 DevOps & Tools  
+#### ⚙️ Backend & Integration
+<div align="center">  
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/USSD%20&%20M-Pesa%20Integrations-blueviolet?style=for-the-badge"/>
+</div>
+
+</td><td valign="top" width="33%">
+
+#### ☁️ DevOps, Cloud & Tools
 <div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" />
-<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-<a href="https://redis.com/"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" />
+<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 </div>
 
 </td></tr></table>
