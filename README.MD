@@ -77,8 +77,6 @@ I’m continuously building, learning, and collaborating on impactful fintech an
 
 ---
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=brianmwirigi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
