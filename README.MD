@@ -71,22 +71,6 @@ Take your time, explore my work, and see what I've been building. I appreciate y
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=brianmwirigi&count_private=true&show_icons=true&theme=dark&layout=compact" width="400"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmwirigi&hide=html&layout=compact&theme=dark" width="380"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brianmwirigi&theme=dark)](https://git.io/streak-stats)
-
----
 
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=brianmwirigi&limit=5&theme=dark&combine_all_yearly_contributions=true)
