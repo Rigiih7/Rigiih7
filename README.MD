@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Brian Mwirigi  
 
-🚀 **Solutions Architect** at Loop DFS | ☁️ **AWS Cloud Practitioner Certified**  
+🚀 **Solutions Architect** at Loop DFS | ☁️ **AWS Cloud Certified**  
 💻 Former **Software Engineer** at Tangazoletu Ltd | 🔐 Mobile & USSD Integrations  
 🎯 Passionate about backend systems, DevOps, and cloud-native infrastructure.
 
